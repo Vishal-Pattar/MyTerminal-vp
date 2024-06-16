@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d005e9f.css",
-    "main.js": "/static/js/main.a09ae673.js",
-    "index.html": "/index.html",
-    "main.0d005e9f.css.map": "/static/css/main.0d005e9f.css.map",
-    "main.a09ae673.js.map": "/static/js/main.a09ae673.js.map"
+    "main.css": "/Vishal-Pattar/MyTerminal.git/static/css/main.0d005e9f.css",
+    "main.js": "/Vishal-Pattar/MyTerminal.git/static/js/main.a09ae673.js",
+    "index.html": "/Vishal-Pattar/MyTerminal.git/index.html",
+    "main.0d005e9f.css.map": "/Vishal-Pattar/MyTerminal.git/static/css/main.0d005e9f.css.map",
+    "main.a09ae673.js.map": "/Vishal-Pattar/MyTerminal.git/static/js/main.a09ae673.js.map"
   },
   "entrypoints": [
     "static/css/main.0d005e9f.css",
