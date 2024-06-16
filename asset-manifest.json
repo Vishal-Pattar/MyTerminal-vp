@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/MyTerminal/static/css/main.5e0f1ee6.css",
-    "main.js": "/MyTerminal/static/js/main.20099aff.js",
-    "index.html": "/MyTerminal/index.html",
-    "main.5e0f1ee6.css.map": "/MyTerminal/static/css/main.5e0f1ee6.css.map",
-    "main.20099aff.js.map": "/MyTerminal/static/js/main.20099aff.js.map"
+    "main.css": "/static/css/main.5e0f1ee6.css",
+    "main.js": "/static/js/main.20099aff.js",
+    "index.html": "/index.html",
+    "main.5e0f1ee6.css.map": "/static/css/main.5e0f1ee6.css.map",
+    "main.20099aff.js.map": "/static/js/main.20099aff.js.map"
   },
   "entrypoints": [
     "static/css/main.5e0f1ee6.css",
